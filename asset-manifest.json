@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shadedmasquerade/static/css/main.f855e6bc.css",
+    "main.js": "/shadedmasquerade/static/js/main.ab28f928.js",
+    "static/js/358.19901dd4.chunk.js": "/shadedmasquerade/static/js/358.19901dd4.chunk.js",
+    "static/media/logo.svg": "/shadedmasquerade/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shadedmasquerade/index.html",
+    "main.f855e6bc.css.map": "/shadedmasquerade/static/css/main.f855e6bc.css.map",
+    "main.ab28f928.js.map": "/shadedmasquerade/static/js/main.ab28f928.js.map",
+    "358.19901dd4.chunk.js.map": "/shadedmasquerade/static/js/358.19901dd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ab28f928.js"
+  ]
+}
