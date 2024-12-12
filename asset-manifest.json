@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shadedmasquerade/static/css/main.58715e0c.css",
-    "main.js": "/shadedmasquerade/static/js/main.3efd2b3e.js",
+    "main.css": "/shadedmasquerade/static/css/main.037a62f1.css",
+    "main.js": "/shadedmasquerade/static/js/main.44cde460.js",
     "static/media/bugbears-be-approaching-127814.mp3": "/shadedmasquerade/static/media/bugbears-be-approaching-127814.75fd22167de30dc1b029.mp3",
     "static/media/The NEATH Aged.jpg": "/shadedmasquerade/static/media/The NEATH Aged.87a16538e16210f321ce.jpg",
     "static/media/jester.png": "/shadedmasquerade/static/media/jester.70f4c80dd60dff5abf54.png",
     "index.html": "/shadedmasquerade/index.html",
-    "main.58715e0c.css.map": "/shadedmasquerade/static/css/main.58715e0c.css.map",
-    "main.3efd2b3e.js.map": "/shadedmasquerade/static/js/main.3efd2b3e.js.map"
+    "main.037a62f1.css.map": "/shadedmasquerade/static/css/main.037a62f1.css.map",
+    "main.44cde460.js.map": "/shadedmasquerade/static/js/main.44cde460.js.map"
   },
   "entrypoints": [
-    "static/css/main.58715e0c.css",
-    "static/js/main.3efd2b3e.js"
+    "static/css/main.037a62f1.css",
+    "static/js/main.44cde460.js"
   ]
 }
