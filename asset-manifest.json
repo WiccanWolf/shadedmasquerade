@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/shadedmasquerade/static/css/main.0ea77294.css",
-    "main.js": "/shadedmasquerade/static/js/main.aad76fd4.js",
+    "main.css": "/shadedmasquerade/static/css/main.9f8b759e.css",
+    "main.js": "/shadedmasquerade/static/js/main.8fc337d7.js",
     "static/media/bugbears-be-approaching-127814.mp3": "/shadedmasquerade/static/media/bugbears-be-approaching-127814.75fd22167de30dc1b029.mp3",
     "static/media/The NEATH Aged.jpg": "/shadedmasquerade/static/media/The NEATH Aged.87a16538e16210f321ce.jpg",
     "static/media/background.mp4": "/shadedmasquerade/static/media/background.ef355af0d42e94d193fc.mp4",
+    "static/media/Mallica Fairytale.ttf": "/shadedmasquerade/static/media/Mallica Fairytale.c355b87010849976da38.ttf",
     "static/media/jester.png": "/shadedmasquerade/static/media/jester.70f4c80dd60dff5abf54.png",
+    "static/media/rune.ttf": "/shadedmasquerade/static/media/rune.8ba31e31d4878fcac0d8.ttf",
     "index.html": "/shadedmasquerade/index.html",
-    "main.0ea77294.css.map": "/shadedmasquerade/static/css/main.0ea77294.css.map",
-    "main.aad76fd4.js.map": "/shadedmasquerade/static/js/main.aad76fd4.js.map"
+    "main.9f8b759e.css.map": "/shadedmasquerade/static/css/main.9f8b759e.css.map",
+    "main.8fc337d7.js.map": "/shadedmasquerade/static/js/main.8fc337d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ea77294.css",
-    "static/js/main.aad76fd4.js"
+    "static/css/main.9f8b759e.css",
+    "static/js/main.8fc337d7.js"
   ]
 }
